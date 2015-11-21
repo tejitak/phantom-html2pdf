@@ -12,7 +12,7 @@
   ],
   "version": "1.0.2",
   "dependencies": {
-    "phantomjs": "latest",
+    "phantomjs-webfonts": "latest",
     "async": "latest",
     "tmp": "latest",
     "debug": "latest"
